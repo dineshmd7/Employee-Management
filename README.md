@@ -25,3 +25,13 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+<!-- Installations packages -->
+
+<!-- npm install --save bootstrap@4 @angular/material @angular/cdk
+npm install --save ng2-search-filter
+npm install --save ngx-filter-pipe
+npm install  angular2-multiselect-dropdown
+npm install  @ng-bootstrap/ng-bootstrap
+npm install --save ngx-pagination -->
